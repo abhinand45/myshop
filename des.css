@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.mobile-menu {
+    display: none; /* Adjust for mobile view */
+}
+
+.breadcrumb-section {
+    padding: 20px 0;
+}
+
+.details-items {
+    margin-top: 20px;
+}
+
+.details-image-1 {
+    text-align: center;
+}
+
+.color-image {
+    margin: 10px 0;
+}
+
+.size-box ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.size-box li {
+    display: inline;
+    margin-right: 10px;
+}
+
+.product-buttons {
+    margin-top: 20px;
+}
+
+.product-icon ul {
+    list-style: none;
+    padding: 0;
+}
+
+.product-icon li {
+    display: inline;
+    margin-right: 10px;
+}
